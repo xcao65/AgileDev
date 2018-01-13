@@ -3,8 +3,7 @@
 
 ### Program Increment (PI)
 * PIs are typically 8 – 12 weeks long
-* The most common pattern for a PI is four development iterations and one
-* [Innovation Planning](#innovationplanning) Iteration.
+* The most common pattern for a PI is four development iterations and one [Innovation Planning](#innovationplanning) Iteration.
 
 ETTING THE GIST OF MARKDOWN’S FORMATTING SYNTAX
 This page offers a brief overview of what it’s like to use Markdown. The syntax page provides complete, detailed documentation for every feature, but Markdown should be very easy to pick up simply by looking at a few examples of it in action. The examples on this page are written in a before/after style, showing example syntax and the HTML output produced by Markdown.
